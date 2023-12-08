@@ -1,0 +1,72 @@
+*{ box-sizing: border-box;
+}
+
+.header{
+    background:black;
+    height: 150;
+    text-align: center; 
+    color: white;
+    padding: 5px;
+}
+.sidebar{
+    background:gray;
+    padding:20px;
+    color: white;
+  height: 100px;
+}
+
+.contanir2{
+    display: flex;
+
+    
+}
+
+
+.footer{
+    background:black;
+    text-align:center;
+    color: white;
+    padding: 5px;
+    margin-top: 0px;
+    
+}
+
+
+table th{
+    text-align: left;
+background:yellow;
+padding: 8px;
+}
+
+.section1{
+    padding-left: 15px;
+
+}
+.section2{
+border: 1px solid black;
+
+}
+.section3{
+    padding-left: 15px;
+}
+
+td{
+    padding: 8px;
+}
+table{
+    margin-right:   20px;
+    margin-left: 10px;
+    margin-top: -15px;
+    
+    
+}
+div h2{
+    margin:15px;
+    padding-top: 10px;
+   
+}
+.se{
+    height: 420px;
+    width: 45%;
+
+}
